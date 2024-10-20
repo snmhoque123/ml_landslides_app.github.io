@@ -1,5 +1,4 @@
-# Power BI Project:
-## 1. Project Summary: Grocery Chain Data Visualization
+## Project Summary: Grocery Chain Data Visualization
 This project aimed to deliver a comprehensive data visualization solution for Grocery Chain, focusing on analyzing sales, product performance, vendor efficiency, employee behavior, and operational metrics. The solution was designed using Power BI to meet various analytic requirements and support data-driven decision-making.
 
 ##### The Power BI Report file size is 107 mb and Github doesn't support to upload the large file.
