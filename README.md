@@ -17,37 +17,10 @@ Data Sources:
 - <b>Sales Data:</b> Extracted from the Point of Sale (POS) system, which captures barcode scans of 40 products across 7 departments (e.g., frozen foods and dairy).
 
 ### Key Visualizations:
-![Cover Page](https://github.com/snmhoque123/Power_BI/blob/main/1_Cover_Page.png)
-
 - <b>Sales Dashboard:</b> Daily and weekly sales trends, product movement by department, and the effect of promotions on product sales.
-
-![Sales Analysis](https://github.com/snmhoque123/Power_BI/blob/main/2_Sales_Analysis.png)
 - <b>Top Selling Products by Time of Day:</b> A time-based analysis of the most demanding products throughout the day.
-
-![Sales Drillthough](https://github.com/snmhoque123/Power_BI/blob/main/3_Sales_Drill.png)
-
 - <b>Market Basket Analysis:</b> Visuals showing product combinations frequently purchased together by customers.
-
-![Purchase Analysis](https://github.com/snmhoque123/Power_BI/blob/main/4_Purchase_Analysis.png)
-
 - <b>Employee Performance Dashboard:</b> Trends in employee absence, misconduct analysis, and overtime hours segmented by marital status.
- 
-![Overtime Report](https://github.com/snmhoque123/Power_BI/blob/main/5_OT_Report.png)
-
-![Absent Report](https://github.com/snmhoque123/Power_BI/blob/main/6_Absent_Report.png)
-
-### Power BI Model View:
-<b> Model View of Sales Dataset </b>
-
-![Sales Dataset Model View](https://github.com/snmhoque123/Power_BI/blob/main/7_Model%20View_Sales.png)
-
-<b> Model View of Overtime dataset </b>
-
-![Model View of Overtime dataset](https://github.com/snmhoque123/Power_BI/blob/main/8_Model_View_Overtime.png)
-
-<b> Model View of Absent dataset </b>
-
-![Absent Dataset Model View](https://github.com/snmhoque123/Power_BI/blob/main/9_Model_View_Absent.png)
 
 ### Results:
 - Better product promotion strategies by understanding sales impacts.
